@@ -1,0 +1,50 @@
+Le blues du javaman(J'aurais voulu être scalafiste)
+Lyrics by Shirley
+
+J’ai du succès dans mes affaires
+J’ai du succès dans mes retours
+Je change souvent de maison mère
+J’ai mon bureau en haut d’une tour
+D’où je code toujours avec mon pair
+Et je contrôle mon univers
+J’passe la moitié de ma vie en guerre
+Entre legacy et code lourd
+Je démontre toujours mon savoir-faire
+J’ai ma religion en scala sphere
+Dans toutes les lignes de code à faire
+J’peux pas supporter WebSphere
+
+Pourquoi es-tu heureux ?
+Je ne suis pas heureux mais j’en ai l’air
+J’appelle Odersky mon amour
+Et je mange Monad au dessert
+Je m’y fais faut pas t’en faire
+Au fond je n'ai qu'un seul regret
+J'sais pas ce que j'aurais voulu faire 
+Fais ce que tu veux mon vieux 
+Dans la vie on fait ce qu'on peut, pas ce qu'on 
+veut
+
+J’aurais voulu être scalafiste
+Pour pouvoir faire Scala.IO
+Et m’éloigner des javaistes
+Faire des rencontres de bon niveau
+J’aurais voulu être un speaker
+Pour pouvoir crier Scalaz
+J’aurais voulu être contributeur
+Pour pouvoir donner mon avis !!
+Pour pouvoir donner mon avis !!
+J’aurais voulu être un actors
+Faire de l'abstraction de haut niveau
+Et pouvoir faire un code tout beau
+Sur une interface en couleurs !!
+Sur une interface en couleurs !!
+J’aurais voulu être scalafiste
+Pour avoir du code à refaire
+Pour pouvoir être un anarchiste
+Et vivre sur un TJ plus cher
+Et vivre sur un TJ plus cher
+J’aurais voulu être scalafiste
+Hummmmmmmmmmmmmm
+Afin de vivre, à fin de maux
+Pour pouvoir dire Scala existe !

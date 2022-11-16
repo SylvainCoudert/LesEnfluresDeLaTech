@@ -1,0 +1,33 @@
+SVN
+
+Je vous parle d’un temps que les moins de 30 ans ne peuvent pas connaitre
+Le code en ce temps-là, on le sourçait parfois, mais on ne le forkait pas
+Et quand quelques techos, pour nous sauver la peau, évoquait subversion
+Nous lui disions Amen, vaut mieux ça qu’CVS ou qu’un vieux FTP
+
+SVN SVN, ça voulait dire, on n’a pas mieux
+SVN SVN, nous n’comittions qu’un jour sur deux
+
+Dans les projets voisins, y’en avaient quelqu’uns qui passaient par ClearCase
+Et bien que galériens, n’maitrisant presque rien, ils y trouvaient leur aise
+Et quand le CTO, comme un vieux mégalo, voulait changer l’controle,
+Nous préparions l’serveur, même si ça faisait peur, de paumer tout notre code
+
+SVN SVN, ça voulait dire, tu es moisi
+SVN SVN, et nous avions tous des ennuis
+
+Souvent il m’arrivait, devant mon clavier, de passer des nuits blanches
+Retouchant le design, d’une ligne d’une class, d’une implem d’interface
+Et ce n’est qu’au matin, qu’on s’arrêtait enfin, au comit SVN
+Epuisés mais ravis, finissant les pizzas, mêmes si elles avaient r’froidi
+
+SVN SVN, ça voulait dire, on a 20 ans
+SVN SVN, et nous vivions de l’air du temps
+
+Quand au hasard des jours, je m’en vais faire un tour, sur une ancienne codebase
+Je ne reconnais plus, ni commit, ni checkout qui ont fait ma jeunesse
+Au fond d’un historique, je cherche le commit dont plus rien ne subsiste
+Dans son nouveau repo, le code tourne sur la PIC, et passe chaque jour en prod
+
+SVN SVN, on était jeunes, on était fous
+SVN SVN, ça ne fait plus rêver du tout !

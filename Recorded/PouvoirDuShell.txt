@@ -1,0 +1,52 @@
+Pouvoir du shell
+Lyrics by Romain ROchegude
+
+Tu codes easy ? 
+Malloc/free
+Tu maîtrises tout pour faire du C
+Mais savais-tu ?
+Avec le shell
+Grouper tes commandes est super facile
+Oh tu me crois pas
+Regarde moi !
+Je vais te montrer tout ce qu’il faut savoir
+Chaque commande,
+Chaque alias,
+Tes collègues ne vont pas en revenir
+
+Tu verras c’est le pouvoir du shell
+Oui c’est le pouvoir shell
+Pouvoir du shell
+Tu verras c’est le pouvoir du shell
+
+T’as pas d’warning,
+Ni de seg fault
+Quelques lignes et ton script est prêt
+Des boucles while
+Qu’tu peux splitter
+Ca t’évitera de tourner en rond
+Hey Makefile !
+J’pense à toi…
+T’es là pour automatiser
+Hey le man !
+Ouvre-toi !
+Je cherche encore les paramètres du find…
+
+Tu verras c’est le pouvoir du shell
+Pouvoir du shell
+Tu verras c’est le pouvoir du shell
+Pouvoir du shell
+
+Dompte c’t’outil
+
+Tu verras c’est le pouvoir du shell
+Oui c’est le pouvoir shell
+Tu verras c’est le pouvoir du shell
+Oui c’est le pouvoir shell
+
+Pouvoir du shell
+Tu verras c’est le pouvoir du shell
+Tu verras c’est le pouvoir du shell
+
+Voir toutes ces commandes… ça m’fait rêver !
+Oui c’est le pouvoir shell

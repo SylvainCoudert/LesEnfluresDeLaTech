@@ -1,0 +1,42 @@
+T.D.D.
+
+(Oi, oi, oi, oi, oi, oi, oi, oi, oi, oi, oi, oi, oi, oi, oi)
+
+15 ans, que j’éponge de la dette
+C’est jamais vraiment mieux que la veille
+Peu importe qu’j’me prenne la tête
+Ou combien j’ai d’bouteille
+Tout ce code spaghetti
+On n’en voit jamais l’bout
+J’sais pas quoi faire, pour c’legacy
+J’voudrais sauver l’tout
+
+Passe au T.D.D., red green refacto
+T.D.D., On écrit le test
+T.D.D., et ensuite l’implem
+T.D.D., c’est la méthode!
+
+Je m’y suis mis, c’est pas facile
+C’est loin d’être trivial
+Red, green refactor, recommence
+C’est léger…
+Refacto, c’est central
+C’est même l’essence
+C’est l’hygiène de base
+Donc ne l’oublie pas
+S’tu fais ça comme il faut
+T’auras vite un gain..
+
+J’fais du T.D.D., red green refacto
+T.D.D., On écrit le test
+T.D.D., ensuite l’implem
+T.D.D., ça c’est du code!
+
+T.D.D. (Red Green Blue)
+T.D.D. (Red Green Blue)
+T.D.D. (Red Green Blue)
+T.D.D. (Red Green Blue)
+T.D.D., red green refacto
+T.D.D., On écrit le test
+T.D.D., ensuite l’implem
+T.D.D., ça c’est du code!
