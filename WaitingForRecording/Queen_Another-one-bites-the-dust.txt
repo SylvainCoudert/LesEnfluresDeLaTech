@@ -1,3 +1,6 @@
+Une bonne raison d'faire du Rust
+Lyrics by Romain Rochegude
+
 Let's go!
 
 Steve bosse sur son monolithe
