@@ -1,4 +1,7 @@
- (Docker t'séduit)
+Docker t'séduit
+Lyrics by Romain Rochegude
+
+(Docker t'séduit)
 35 jours sans mettre en prod
 Sans hotfix, sans évol'
 J'voudrais bien publier !
