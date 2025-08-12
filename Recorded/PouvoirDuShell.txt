@@ -1,5 +1,5 @@
 Pouvoir du shell
-Lyrics by Romain ROchegude
+Lyrics by Romain Rochegude
 
 Tu codes easy ? 
 Malloc/free
