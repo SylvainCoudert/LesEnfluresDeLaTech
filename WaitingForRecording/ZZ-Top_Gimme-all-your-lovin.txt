@@ -1,3 +1,6 @@
+Donnez-moi du Kotlin
+Lyrics by Romain Rochegude
+
 [Couplet]
 Tu croyais qu'au Java ?
 Attend un peu de voir la suite
