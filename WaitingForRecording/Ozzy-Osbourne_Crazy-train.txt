@@ -1,0 +1,45 @@
+Release train
+Lyrics by Romain Rochegude
+
+Kanban board ha ha ha ha ha ha ha
+
+KPI, ay, ay, ay, ay, ay, ay
+
+Check-out, j’crée une nouvelle branche
+Millions de lignes de code, perdues pour la cause
+Pourtant, elles sont toutes prêtes
+J'ai été véloce
+Ma user story est bien faite
+
+C'est pas vraiment agile...?
+Continuous delivery
+J'ai pas push ma feature dans le release train
+J'ai pas push ma feature dans le release train
+
+Let's go
+
+J'ai écouté tous ces coachs
+J'ai écouté leurs conseils
+J'ai regardé les replays
+J'ai passé mes certifs
+On pensait être sorti du command and control
+On croyait tous au changement de rôle
+
+C'est pas vraiment agile...?
+Continuous delivery
+J'ai pas push ma feature dans le release train
+J'ai pas push ma feature dans le release train
+
+Je sais que tout est affaire de compromis
+J'essaie de limiter le rework, yeah
+
+Encore un vieux JAR
+C'est c'qu'on livre en prod
+Des vieux tromblons, ça rend humble
+Et oui, on aimerait Docker
+Mais notre stack technique, c'est vraiment l'enfer
+
+C'est pas vraiment agile...?
+Continuous delivery
+J'ai pas push ma feature dans le release train
+J'ai pas push ma feature dans le release train
