@@ -1,0 +1,35 @@
+Donnez-moi du Kotlin
+Lyrics by Romain Rochegude
+
+[Couplet]
+Tu croyais qu'au Java ?
+Attend un peu de voir la suite
+Quelles sont ses belles features ?
+Des itérations avec le mot-clé repeat
+
+[Refrain]
+Donnez-moi du Kotlin
+Le Java va m'rendre fou
+Donnez-moi du Kotlin
+Je vais en mettre partout
+
+[Couplet]
+Y'a pas un gros ramp-up
+Tu vas vouloir mettre une tonne de let
+Les data class sont top
+Plus besoin d'aucune aide
+
+[Refrain]
+
+[Solo 1]
+J'en reviens pas à quel point on peut faire de tout
+
+[Couplet]
+T'as fini ton ramp-up ?
+Et l'utilises tel du sucre en poudre
+String interpolation ?
+Et les optionnels pour gérer le null
+
+[Refrain]
+
+[Solo 2]
