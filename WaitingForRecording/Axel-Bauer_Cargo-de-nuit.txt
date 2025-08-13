@@ -1,0 +1,59 @@
+Docker t'séduit
+Lyrics by Romain Rochegude
+
+(Docker t'séduit)
+35 jours sans mettre en prod
+Sans hotfix, sans évol'
+J'voudrais bien publier !
+(Docker t'séduit)
+35 jours de feature
+Aucun envir pour valider
+(le build te nuit)
+(Teste Docker)
+
+(Docker t'séduit)
+J'avance à vue dans la config
+Comme un mec sous acide
+L'enfer pour déployer !
+(Docker t'séduit)
+Les ports sont bien settés
+Mais j'ai pu en oublier
+(le build te nuit)
+(Teste Docker)
+
+[Refrain]
+Mais cette machine virtuelle,
+bien trop lourde, incomplète
+Mais cette machine virtuelle,
+10 minutes pour être prête
+Même avec Chef ou bien Puppet
+
+(Docker t'séduit)
+Tout est rouge, j'suis inquiet
+Même avec Hyper-V
+Windows il faut payer
+(Docker t'séduit)
+Même avec une sandbox
+Je tombe toujours sur un os
+(le build te nuit)
+(Teste Docker)
+
+[Refrain]
+Mais cette machine virtuelle,
+bien trop lourde, incomplète
+Mais cette machine virtuelle,
+10 minutes pour être prête
+Même avec Chef ou bien Puppet
+
+Avec Docker tout a changé
+J'ai pu tout simplifier
+Facile de tout builder
+On déploie sans arrêt
+Maintenant faut tout orchestrer
+
+[Refrain]
+Mais ce foutu kubernetes...
+Ses pods et ses ingress
+Mais ce foutu kubernetes...
+Self healing et secrets
+En plus tout ça est fait en go
